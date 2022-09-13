@@ -1,0 +1,11 @@
+G:\MET ICS\projects\C#\CarRacing\CarRacing\bin\Debug\CarRacing.exe.config
+G:\MET ICS\projects\C#\CarRacing\CarRacing\bin\Debug\CarRacing.exe
+G:\MET ICS\projects\C#\CarRacing\CarRacing\bin\Debug\CarRacing.pdb
+G:\MET ICS\projects\C#\CarRacing\CarRacing\obj\Debug\CarRacing.csproj.AssemblyReference.cache
+G:\MET ICS\projects\C#\CarRacing\CarRacing\obj\Debug\CarRacing.csproj.SuggestedBindingRedirects.cache
+G:\MET ICS\projects\C#\CarRacing\CarRacing\obj\Debug\CarRacing.Form1.resources
+G:\MET ICS\projects\C#\CarRacing\CarRacing\obj\Debug\CarRacing.Properties.Resources.resources
+G:\MET ICS\projects\C#\CarRacing\CarRacing\obj\Debug\CarRacing.csproj.GenerateResource.cache
+G:\MET ICS\projects\C#\CarRacing\CarRacing\obj\Debug\CarRacing.csproj.CoreCompileInputs.cache
+G:\MET ICS\projects\C#\CarRacing\CarRacing\obj\Debug\CarRacing.exe
+G:\MET ICS\projects\C#\CarRacing\CarRacing\obj\Debug\CarRacing.pdb
